@@ -19,3 +19,6 @@
 [submodule "pack/plugins/start/vim-tomorrow-night-theme"]
 	path = pack/plugins/start/vim-tomorrow-night-theme
 	url = https://github.com/Ardakilic/vim-tomorrow-night-theme.git
+[submodule "pack/plugins/start/vim-hackernews"]
+	path = pack/plugins/start/vim-hackernews
+	url = https://github.com/ryanss/vim-hackernews
