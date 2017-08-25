@@ -21,7 +21,7 @@
 	url = https://github.com/Ardakilic/vim-tomorrow-night-theme.git
 [submodule "pack/plugins/start/vim-hackernews"]
 	path = pack/plugins/start/vim-hackernews
-	url = https://github.com/ryanss/vim-hackernews
+	url = https://github.com/ryanss/vim-hackernews.git
 [submodule "pack/plugins/pack/plugins/opt/vim-game-code-break"]
 	path = pack/plugins/pack/plugins/opt/vim-game-code-break
 	url = https://github.com/johngrib/vim-game-code-break
