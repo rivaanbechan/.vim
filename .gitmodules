@@ -28,3 +28,6 @@
 [submodule "pack/plugins/opt/vim-game-code-break"]
 	path = pack/plugins/opt/vim-game-code-break
 	url = https://github.com/johngrib/vim-game-code-break
+[submodule "pack/shapeshed/start/vim-airline"]
+	path = pack/shapeshed/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
